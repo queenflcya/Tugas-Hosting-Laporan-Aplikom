@@ -1,0 +1,185 @@
+                                                           /* NAVBAR */
+body{
+    margin: auto;
+    padding: 0;
+
+}
+.Navbar_Background{
+    margin: 0;
+    padding: 15px 0px 0px 40px;
+    float: left;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+ul li{
+    display: inline;
+
+    margin: 50px 50px 0px 0px;
+    text-decoration: none;
+    font-size: 18px;
+    border: solid 1px black;
+    padding: 5px 10px;
+    float: right;
+    color: black;
+    box-shadow: 2px 2px 2px black;
+}
+li{
+    padding: 0;
+    margin: 0;
+}
+.Navbar_Background{
+    width:100%;
+
+    padding : 100px 0px 30px 0px;   
+    border-bottom: solid 5px rgba(201, 147, 10, 0.678);
+}
+.judul{
+    text-shadow: 2px 2px 2px rgb(201, 147, 10);
+}
+
+/* DOCUMENT */
+.Document-satu{
+    width: 90%;
+    margin: 10px 30px;
+    background-color: rgba(201, 147, 10, 0.473);
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+.Document-dua{
+    width: 90%;
+    margin: 10px 30px;
+    background-color: rgba(201, 147, 10, 0.473);
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+.Document-tiga{
+    width: 90%;
+    margin: 10px 30px;
+    background-color: rgba(201, 147, 10, 0.473);
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+.Document-empat{
+    width: 90%;
+    margin: 10px 30px;
+    background-color: rgba(201, 147, 10, 0.473);
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+.Document-lima{
+    width: 90%;
+    margin: 10px 30px;
+    background-color: rgba(201, 147, 10, 0.473);
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+.Document-enam{
+    width: 90%;
+    margin: 10px 30px;
+    background-color: rgba(201, 147, 10, 0.473);
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+.Document-tujuh{
+    width: 90%;
+    margin: 10px 30px;
+    background-color: rgba(201, 147, 10, 0.473);
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+.Document-delapan{
+    width: 90%;
+    margin: 10px 30px;
+    background-color: rgba(201, 147, 10, 0.473);
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+.Document-sembilan{
+    width: 90%;
+    margin: 10px 30px;
+    background-color: rgba(201, 147, 10, 0.473);
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+.Genap{
+    text-align: right;
+}
+.judul{
+    text-align: center;
+}
+p {
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: 15px;
+    line-height: 30px;
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+    font-size: 30px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+.buton{
+    box-shadow: 1px 1px 1px 1px black;
+    font-size: 15px;
+    padding: 3px 6px;
+    text-align: center;
+    margin: 0;
+}
+.btn{
+    text-align: center;
+    margin: 0;
+}
+
+/* FOOTER */
+.Footer{
+    width: 90%;
+    margin: 10px 30px;
+    /* background-image: url(Gambar/Exploded.jpg); */
+    text-align: center;
+    padding: 7px 35px;
+    font-size: 20px;
+}
